@@ -1,13 +1,14 @@
 body {
 	text-align: center;
 	background-color: #1A1A1D;
+	color: #E3E2DF;
 }
 
 #main {
 	margin: auto;
 	padding: 5px;
 	text-align: center;
-	border: 2px solid black;
+	border: 2px solid white;
 	height: auto;
 	width: auto;
 }
@@ -16,7 +17,7 @@ body {
 	padding: 2px;
 	margin: auto;
 	text-align: center;
-	border: 1px solid black;
+	border: 1px solid white;
 	height: auto;
 	width: auto;
 }
